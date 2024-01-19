@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-app
-        image: zivlederer/best-cicd:26
+        image: zivlederer/best-cicd:30
         ports:
         - containerPort: 8080
